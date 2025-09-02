@@ -159,11 +159,4 @@ GET /weather/coords/:lat/:lon  # Obtener clima por coordenadas
   "windSpeed": 15,
   "windDirection": "NE"
 }
-```
 
-## Siguiente Iteración
-
-- [ ] Implementar casos de uso más complejos
-- [ ] Añadir persistencia local
-- [ ] Tests unitarios para el dominio
-- [ ] Manejo de errores mejorado
